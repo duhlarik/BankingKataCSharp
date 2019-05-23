@@ -1,0 +1,84 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/BankingKataAPI.Test.csproj",
+    "projectName": "BankingKataAPI.Test",
+    "projectPath": "/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/BankingKataAPI.Test.csproj",
+    "outputPath": "/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+      "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/BankingKataAPI.csproj": {
+            "projectPath": "/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/BankingKataAPI.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "EntityFramework": {
+          "target": "Package",
+          "version": "[6.2.0, )"
+        },
+        "Microsoft.AspNetCore.TestHost": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.1.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.10.1, )"
+        },
+        "NuGet.CommandLine": {
+          "target": "Package",
+          "version": "[5.0.2, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

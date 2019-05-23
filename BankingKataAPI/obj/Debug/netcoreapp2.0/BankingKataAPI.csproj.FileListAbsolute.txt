@@ -1,0 +1,14 @@
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/BankingKataAPI.deps.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/BankingKataAPI.runtimeconfig.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/BankingKataAPI.runtimeconfig.dev.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/BankingKataAPI.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/bin/Debug/netcoreapp2.0/BankingKataAPI.pdb
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/obj/Debug/netcoreapp2.0/BankingKataAPI.csprojAssemblyReference.cache
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/obj/Debug/netcoreapp2.0/BankingKataAPI.csproj.CoreCompileInputs.cache
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/obj/Debug/netcoreapp2.0/BankingKataAPI.AssemblyInfoInputs.cache
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/obj/Debug/netcoreapp2.0/BankingKataAPI.AssemblyInfo.cs
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/obj/Debug/netcoreapp2.0/BankingKataAPI.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI/obj/Debug/netcoreapp2.0/BankingKataAPI.pdb

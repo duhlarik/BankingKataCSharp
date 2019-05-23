@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E879F39B-6A9F-48EF-BBDD-C450E1F82EF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankingKataAPI/Services/AccountsService.cs">
+    <Files>
+      <File FileName="BankingKataAPI/Controllers/AccountsController.cs" Line="29" Column="52" />
+      <File FileName="BankingKataAPI/Models/User.cs" Line="2" Column="16" />
+      <File FileName="BankingKataAPI/Services/AccountsService.cs" Line="14" Column="10" />
+      <File FileName="BankingKataAPI/Models/Account.cs" Line="7" Column="19" />
+      <File FileName="BankingKataAPI/Models/Identifiable.cs" Line="9" Column="1" />
+      <File FileName="BankingKataAPI/Program.cs" Line="11" Column="16" />
+      <File FileName="BankingKataAPI/Models/Money.cs" Line="144" Column="5" />
+      <File FileName="BankingKataAPI/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BankingKataAPI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

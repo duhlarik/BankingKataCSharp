@@ -1,0 +1,17 @@
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.Test.deps.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.Test.runtimeconfig.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.Test.runtimeconfig.dev.json
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.Test.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.Test.pdb
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/bin/Debug/netcoreapp2.0/BankingKataAPI.pdb
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.csprojAssemblyReference.cache
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.csproj.CoreCompileInputs.cache
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.AssemblyInfoInputs.cache
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.AssemblyInfo.cs
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.csproj.CopyComplete
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.dll
+/Users/deeann.m.uhlarik/Documents/Projects/tddWorkshop/07-Banking-Kata/csharp-dotnetcore2/BankingKataAPI.Test/obj/Debug/netcoreapp2.0/BankingKataAPI.Test.pdb
